@@ -33,6 +33,21 @@ Projeto Front-end Web de um site one page para restaurantes. Todo a interface fo
 <h2>📍Bibliotecas</h2>
 ➙ React Scroll <br>
 ➙ React Spinners
+<h2>💡Rode na sua máquina</h2>
+
+```
+# Clone este repositório
+$ git clone https://github.com/diegomagalhaes-dev/Sushi-Time.git
+
+# Instale as dependências
+$ yarn 
+
+# Inicie a aplicação
+$ npm start
+
+# (necessário ter o Node e o Git instalados na sua máquina)
+```
+
 <h2 id="license"> :memo: Licença</h2>
 
 Esse projeto está sob  a Licença MIT. Acesse [LICENSE](https://github.com/diegomagalhaes-dev/Sushi-Time/blob/master/LICENSE) para mais informações.
