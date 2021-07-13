@@ -15,9 +15,9 @@ function Header() {
               <span>SUSHI</span>
             </h1>
             <div className="header-btns">
-              <a href="#" className="header-btn">
+              <button  className="header-btn">
                 Comprar
-              </a>
+              </button>
             </div>
           </div>
 
