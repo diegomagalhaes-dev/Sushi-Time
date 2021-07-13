@@ -383,8 +383,12 @@ nav div .menu-btn,
   .header-heading h2 {
     font-size: 1.5rem;
   }
+  .header-heading h3{
+    font-size: 1.3rem;
+    font-weight: 500;
+  }
   .header-heading h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
   .header-heading .details {
     font-size: 1rem;
@@ -495,7 +499,7 @@ nav div .menu-btn,
     margin: 0 auto;
   }
   .header-heading {
-    width: 60%;
+    width: 85%;
     transform: none;
   }
   .header-heading img {
