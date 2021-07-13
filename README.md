@@ -25,16 +25,16 @@
 </div>
 <br><br>
 <h2 id="sobre">🔎 Sobre o Projeto</h2>
-Projeto Front-end Web de um site one page para restaurantes. Todo a interface foi desenvolvida com uma das tecnologias para desenvolvimento de Single Page Aplications (SPA) mais consolidades: o React JS. 
+Projeto Front-end Web de um site one page para restaurantes. Todo a interface foi desenvolvida utilizando uma das tecnologias para desenvolvimento de Single-Page Applications (SPA) mais consolidades: o React JS. As funcionalidades do React não apenas facilitam o desenvolvimento, como também proporcionam uma melhor experiência do usuário quanto a navegabilidade e fluidez do site. 
 
 <h2 id="tecnologias">⚙️ Tecnologias utilizadas</h2>
--  Figma
--  React JS
-<h2>Bibliotecas</h2>
-- React Scroll
-- React Spinners
+➙ Figma <br>
+➙ React.js
+<h2>📍Bibliotecas</h2>
+➙ React Scroll <br>
+➙ React Spinners
 <h2 id="license"> :memo: Licença</h2>
 
-Esse projeto está sob  a Licença MIT. Acesse [LICENSE](https://github.com/diegomagalhaes-dev/EVEN-Event-Promoter/blob/master/LICENSE) para mais informações.
+Esse projeto está sob  a Licença MIT. Acesse [LICENSE](https://github.com/diegomagalhaes-dev/Sushi-Time/blob/master/LICENSE) para mais informações.
 <hr>
 Feito com ♥ por Diêgo Magalhães :wave: <a href="https://www.linkedin.com/in/magalhaesdiego/">Fale comigo!</a>.
