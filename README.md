@@ -28,17 +28,9 @@
 Projeto Front-end Web de um site one page para restaurantes. Todo a interface foi desenvolvida utilizando uma das tecnologias para desenvolvimento de Single-Page Applications (SPA) mais consolidades: o React JS. As funcionalidades do React não apenas facilitam o desenvolvimento, como também proporcionam uma melhor experiência do usuário quanto a navegabilidade e fluidez do site. 
 
 <h2 id="tecnologias">⚙️ Tecnologias utilizadas</h2>
-<<<<<<< HEAD
--  Figma
--  React JS
-<h2>Bibliotecas</h2>
-- React Scroll
-- React Spinners
-<h2> Como rodar</h2>
-=======
 ➙ Figma <br>
 ➙ React.js
-<h2>📍Bibliotecas</h2>
+<h2>📍Bibliotecas adicionais</h2>
 ➙ React Scroll <br>
 ➙ React Spinners
 <h2>💡Rode na sua máquina</h2>
@@ -55,7 +47,6 @@ $ npm start
 
 # (necessário ter o Node e o Git instalados na sua máquina)
 ```
->>>>>>> 110c77d38be6077a901e1ea27835f832e9d4c338
 
 <h2 id="license"> :memo: Licença</h2>
 
