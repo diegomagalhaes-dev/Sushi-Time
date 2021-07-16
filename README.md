@@ -33,6 +33,8 @@ Projeto Front-end Web de um site one page para restaurantes. Todo a interface fo
 <h2>Bibliotecas</h2>
 - React Scroll
 - React Spinners
+<h2> Como rodar</h2>
+
 <h2 id="license"> :memo: Licença</h2>
 
 Esse projeto está sob  a Licença MIT. Acesse [LICENSE](https://github.com/diegomagalhaes-dev/EVEN-Event-Promoter/blob/master/LICENSE) para mais informações.

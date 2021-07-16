@@ -6,7 +6,7 @@ function NavBar() {
   const [nav, setnav] = useState(false);
 
   const changeBackgroung = () => {
-    if (window.scrollY >= 50) {
+    if (window.scrollY >= 30) {
       setnav(true);
     } else {
       setnav(false);
@@ -25,24 +25,18 @@ function NavBar() {
         </label>
         <ul className="menu">
           <li>
-            <Link to="main" smooth={true} duration={2000}>
+            <Link to="header-sec" smooth={true} duration={2000}>
               Inicio
             </Link>
           </li>
           <li>
-            <Link to="products" smooth={true} duration={2000}>
-              Produtos
-            </Link>
+            <Link offset={-70} to="products" smooth={true} duration={2000}>Produtos</Link>
           </li>
           <li>
-            <Link to="about" smooth={true} duration={2000}>
-              Sobre
-            </Link>
+            <Link offset={-180} to="delivery" smooth={true} duration={2000}>Entrega</Link>
           </li>
           <li>
-            <Link to="contact" smooth={true} duration={2000}>
-              Contato
-            </Link>
+            <Link to="contact" smooth={true} duration={2000}>Contato</Link>
           </li>
         </ul>
       </div>

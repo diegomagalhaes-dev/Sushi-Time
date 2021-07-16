@@ -2,7 +2,6 @@ import React from "react";
 import banner2 from "../assets/banner2.png";
 function Header() {
   return (
-    <div id="main">
       <header id="header-sec">
         <div className="header-heading">
           <div>
@@ -24,7 +23,6 @@ function Header() {
           <img src={banner2} alt="logoSite" />
         </div>
       </header>
-    </div>
   );
 }
 

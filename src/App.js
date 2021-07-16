@@ -3,7 +3,7 @@ import './App.css'
 import NavBar from './Components/NavBar';
 import Header from './Components/Header';
 import Products from './Components/Products';
-import About from './Components/About';
+import Delivery from './Components/Delivery';
 import Contact from './Components/Contact';
 import { css } from "@emotion/react";
 import { PulseLoader } from "react-spinners";
@@ -31,7 +31,7 @@ function App() {
             <NavBar />
             <Header />
             <Products />
-            <About />
+            <Delivery />
             <Contact />
           </>
       }
