@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img  style="max-width:350px; width: 60%" alt="GoBarber API" src="./src/assets/readmelogo.png" />
+    <img  style="max-width:350px;" alt="GoBarber API" src="./src/assets/readmelogo.png" />
     <br>
  
 </h1>
