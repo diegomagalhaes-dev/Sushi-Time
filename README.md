@@ -25,7 +25,7 @@
 </div>
 <br><br>
 <h2 id="sobre">🔎 Sobre o Projeto</h2>
-Projeto Front-end Web de um site one page para restaurantes. Todo a interface foi desenvolvida utilizando uma das tecnologias para desenvolvimento de Single-Page Applications (SPA) mais consolidades: o React JS. As funcionalidades do React não apenas facilitam o desenvolvimento, como também proporcionam uma melhor experiência do usuário quanto a navegabilidade e fluidez do site. 
+Projeto Front-End Web de um site one page para restaurantes. Todo a interface foi desenvolvida utilizando uma das tecnologias para desenvolvimento de Single-Page Applications (SPA) mais consolidadas: o React JS. As funcionalidades do React não apenas facilitam o desenvolvimento, como também proporcionam uma melhor experiência do usuário quanto a navegabilidade e fluidez do site. 
 
 <h2 id="tecnologias">⚙️ Tecnologias utilizadas</h2>
 ➙ Figma <br>
